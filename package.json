@@ -21,7 +21,9 @@
 		"optimist":      "*",
 		"usb":           "*",
 		"p-promise":     "*",
-		"state-machine": "*"
+		"state-machine": "*",
+		"when": "*",
+		"bunyan": "*"
 	},
 	"devDependencies":
 	{
